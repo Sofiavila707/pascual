@@ -16,13 +16,13 @@ const titulos = [
   "Chance-C.R.O ",
   "Persona Ideal- Adolescent's Orquesta",
   "Damelo-Barderos",
-  "Perder-Penayir"
-  "2:12-Rauw Alejandro"
-  "Frances Limon- Enanitos Verdes"
+  "Perder-Penayir",
+  "2:12-Rauw Alejandro",
+  "Frances Limon- Enanitos Verdes",
 ];
 
 const frases = [
-  "Si me muero, Ven a buscarme tan pronto tengas otro cuerpo Y otra forma de mirarme",
+    "Si me muero, Ven a buscarme tan pronto tengas otro cuerpo Y otra forma de mirarme",
   "Tengo miedo de la oscuridad Porque soy otra piedra en la arena Que algún día desaparecerá Y la paz romperá mi cadenas",
   "Man, ella no te quiere para su vida Y si te dice que te quiere, te aseguro que es mentira",
   "Me tengo que ir Y no es por mí, contigo está mi corazón Todo el amor de mis entrañas De mi cuerpo y de mi alma Todo el fruto de este amor te queda a ti",
